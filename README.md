@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Logo du projet" width="200">
+  <img src="logo.png" alt="Logo du projet" width="200">
 </p>
 # Web Vulnerability Scanner
 
