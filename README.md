@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/logo.png" alt="Logo du projet" width="200">
+</p>
 # Web Vulnerability Scanner
 
 Un outil pour tester les vulnérabilités web (SQLi, XSS, Command Injection, etc.).
