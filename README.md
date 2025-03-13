@@ -1,5 +1,8 @@
-# Web Vulnerability Scanner
 
+# Web Vulnerability Scanner
+<p align="center">
+  <img src="./logo.png" alt="Logo du projet">
+</p>
 Un outil open-source pour tester les vulnérabilités web (SQLi, XSS, Command Injection, etc.) dans un environnement contrôlé et légal.
 
 > **Avertissement :**  
