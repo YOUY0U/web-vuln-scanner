@@ -52,5 +52,5 @@ L’objectif est de proposer un outil facile à configurer et à personnaliser g
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/YOUY0U/web-vuln-scanner.git
    cd votre-repo
